@@ -1,0 +1,48 @@
+diskpart
+list disk
+select disk 1
+clean
+create partition primary
+select partition 1
+format fs=ntfs quick
+active
+assign
+exit
+
+
+
+http://www.freeplusapp.com/r/A102621
+
+http://pokkt.com/pm/wjb044062be7aa4751
+
+http://paisawiz.com/r/b044062be7aa4751
+
+
+http://mcent.com/r/5IEU1J
+
+idm key
+http://softstribe.com/internet-download-manager/internet-download-manager
+
+
+
+10rs)
+http://mcent.com/ref/UV71UY/
+
+7rs)
+http://mcent.com/ref/16Y6MZ/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
